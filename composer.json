@@ -1,0 +1,17 @@
+{
+  "name": "jcyangzh/ratchet-demo",
+  "authors": [
+    {
+      "name": "jcyangzh",
+      "email": "jcyangzh@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MyApp\\": "src/"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "^0.3.5"
+  }
+}
